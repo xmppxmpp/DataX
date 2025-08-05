@@ -283,6 +283,7 @@
                         <descriptor>package.xml</descriptor>
                     </descriptors>
                 </configuration>
+                <version>2.2-beta-3</version>
                 <executions>
                     <execution>
                         <id>make-assembly</id>
